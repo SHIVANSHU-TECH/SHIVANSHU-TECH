@@ -27,4 +27,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shiva-nshu&show_icons=true&locale=en&layout=compact" alt="shiva-nshu" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shiva-nshu&show_icons=true&locale=en" alt="shiva-nshu" /></p>
+
