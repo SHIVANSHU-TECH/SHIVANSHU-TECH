@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning *Next js.*
 
-- 👨‍💻 All of my projects are available at [itsmeshiv.netlify.app](itsmeshiv.netlify.app)
+- 👨‍💻 All of my projects are available at [https://itsmeshiv.netlify.app/](itsmeshiv.netlify.app)
 
 - 💬 Ask me about *React js and DSA*
 
