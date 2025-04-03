@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on *Next js*
 
-- 🌱 I’m currently learning *Next js.*
+- 🌱 I’m currently learning *R and Python.*
 
 - 👨‍💻 All of my projects are available at [itsmeshiv](https://itsmeshiv.netlify.app/)
 
